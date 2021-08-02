@@ -16,7 +16,7 @@ import {
 
 import { PhotoCamera } from "@material-ui/icons";
 
-import useStyles from "./styles";
+import useStyles from "./app.styles"; //Custom Style Hook
 
 const App = () => {
   const classes = useStyles();
